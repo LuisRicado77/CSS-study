@@ -1,0 +1,35 @@
+h1{
+	text-align: center;
+	text-shadow: 3px 3px 5px #a8dadc;
+	color: pink;
+}
+
+div.contenedor{
+	width: 30%;
+	height: 20%;
+	margin: auto;
+	border: 3px solid orangered;
+	padding: 15px;
+	text-align: center;
+	box-shadow: 2px 2px 2px 5px gray;
+	color:blue;
+	border-radius: 15px;
+}
+
+img.imagen{
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+}
+
+div.cabecera{
+	background-color: #4cc9f0;
+}
+
+
+div.cuerpo{
+	padding-top: 2px;
+	font-size:  1.2em;
+	font-weight: bolder;
+	text-shadow: 2px 2px 2px rgb(177, 177, 177);
+}

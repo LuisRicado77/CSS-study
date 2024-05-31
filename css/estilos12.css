@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	text-shadow: 2px 2px 3px black;
+	color: skyblue;
+}
+
+
+div.contenedor{
+	display: flex;
+	background-color: goldenrod;
+	/*flex-direction: column-reverse;*/
+	/*flex-direction: row;
+	flex-wrap: wrap;*/
+	flex-flow: row wrap ;
+	justify-content: center;
+	align-items: center;
+	height: 500px;
+
+}
+
+div.contenedor > p{
+	background-color: steelblue;
+	color: navajowhite;
+	margin: 20px;
+	padding:15px;
+	font-size: 1.5em;
+}

@@ -1,0 +1,46 @@
+h2{
+	color:skyblue;
+	text-align: center;
+	font-size: 50px;
+	font-family: cursive;
+}
+
+
+
+div.contenedor{
+	border: 3px dashed goldenrod;
+	width: 80%;
+	height: 20%;
+	overflow: auto;
+	margin: auto;
+}
+
+
+span{
+	font-size: large;
+	font-weight: bolder;
+	font-style: italic;
+	background-color: lightblue;
+	border: 1px solid darkblue; 
+	height: 50px;
+	padding: 5px;
+	display: inline-block;
+}
+
+.menu{
+	list-style: none;
+	text-align: center;
+}
+.menu li{
+	display: inline-block;
+	padding: 15px;
+	margin: 10px;
+	background-color: red;
+	border-radius: 10px;
+
+}
+
+a{
+	text-decoration: none;
+	color:lightcyan;
+}

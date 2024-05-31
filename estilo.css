@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #fbd9b6 ;	
+	color: lightyellow;
+	background-image: url("img/fondo.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: fixed;
+}
+
+.pru{
+	padding: 10px 20px;
+	margin: 0 auto;
+	max-width: 300px;
+	border: 1px solid brown;
+	max-height: 100px;
+	box-sizing:  border-box;
+}
+h1{
+	color:ghostwhite;
+	
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 2px gray;
+	letter-spacing: 3px;
+	word-spacing: 30px;
+}
+
+
+.caja{
+	background-color: gray;
+	padding: 15px;
+	margin: auto;
+	width: 40%;
+	border-radius: 10px;
+	color: orange;
+
+}
+.texto{
+	justify-content: center;
+	direction: initial	;
+	text-indent: 25px;
+	line-height: 1.5;
+	white-space: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

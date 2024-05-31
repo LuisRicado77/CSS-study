@@ -1,0 +1,41 @@
+
+h1{
+	text-align: center;
+	color:yellow;
+}
+
+div.contenedor{
+	width: 30%;
+	height: 20%;
+	border: 3px solid blueviolet;
+	margin:auto;
+	color:gray;
+	padding: 15px;
+	text-align: center;
+}
+
+div.contenedor p::selection{
+	background-color: yellow;
+	color:red;
+}
+
+div.contenedor p::first-line{
+	font-variant: small-caps;
+	color: red;
+}
+
+div.contenedor p::first-letter{
+	color: red;
+	font-size: 1.5em;
+}
+
+div.contenedor p::before{
+	content: "- ";
+}
+
+div.contenedor p::after{
+	content: " -";
+}
+
+
+

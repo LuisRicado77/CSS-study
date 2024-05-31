@@ -1,0 +1,30 @@
+
+
+h1{
+	text-align: center;
+	color: goldenrod;
+}
+
+div.contenedor{
+	position: relative;
+	width: 30%;
+	border: 3px dashed darkgray;
+	margin: auto;
+
+
+}
+
+img.imagen{
+	width: 100%;
+	opacity: .2;
+	height: 100%;
+}
+
+div.centro{
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+}
